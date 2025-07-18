@@ -23,4 +23,4 @@ A fully responsive **Netflix Clone** website built using only **HTML** and **CSS
 ## 🚀 How to Use
 
 You can directly view the live demo here:  
-👉 [Netflix Clone Live Demo](https://rohit7362.github.io/Netflix-Clone/)
+👉 [Netflix Clone Live Demo](https://netflix-clone-blush-pi.vercel.app/)
